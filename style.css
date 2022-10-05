@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to top, rgb(84, 84, 84), silver);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    border-style: groove;
+    text-align: center;
+    font-size: 65px;
+    color: rgb(63, 62, 62);
+}
+.main-header{
+    font-family: sans-serif;
+    font-size: 100px;
+}
+.recipes{
+    list-style-position: inside;
+    margin-left: 425px;
+    font-size: 40px;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: rgb(33, 26, 121);
+}
+div.salsa{
+    text-align: center;
+}
